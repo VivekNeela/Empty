@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# ignore ReusableShit folder (contains another git repo)
+/Assets/ReusableShit/
+Assets/ReusableShit.meta
